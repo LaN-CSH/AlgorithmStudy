@@ -1,1 +1,1 @@
-[백준 문제 풀이 모음] (https://www.acmicpc.net/)
+[백준온라인저지](https://www.acmicpc.net/) 문제 풀이 모음
